@@ -8,7 +8,7 @@
 - 📫 How to reach me **maxhalanen@cmail.carleton.ca**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/max-halanen/](https://www.linkedin.com/in/max-halanen/)
-
+  
 - ⚡ Fun fact **I love rock climbing!**
 
 <h3 align="left">Connect with me:</h3>
