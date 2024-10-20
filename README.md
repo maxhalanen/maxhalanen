@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/max-halanen/](https://www.linkedin.com/in/max-halanen/)
   
-- ⚡ Fun fact **I love rock climbing!**
+- ⚡ Fun fact **The average cloud weighs over one million pounds!**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
