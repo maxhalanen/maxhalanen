@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Selenium**    
   
-- 📫 How to reach me **maxhalanen@cmail.carleton.ca**
+- 📫 How to reach me **maxhalanen@cmail.carleton.ca**   
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/max-halanen/](https://www.linkedin.com/in/max-halanen/)
   
