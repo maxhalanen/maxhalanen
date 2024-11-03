@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Halanen</h1>
-<h3 align="center">A passionate System Integration Engineer and Software Developer from Canada</h3>
+<h3 align="center">A passionate Systems Engineer and Software Developer from Canada</h3>
 
 - 🔭 I’m currently working on an **E-Commerce Website**
 
