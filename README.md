@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Systems Engineer and Software Developer from Canada</h3>
 
 - 🔭 I’m currently working on an **E-Commerce Website**
-
+ 
 - 🌱 I’m currently learning **React, Selenium**    
   
 - 📫 How to reach me **maxhalanen@cmail.carleton.ca**   
