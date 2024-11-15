@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Max Halanen</h1>
 <h3 align="center">A passionate Systems Engineer and Software Developer from Canada</h3>
-
+  
 - 🔭 I’m currently working on an **E-Commerce Website**
   
 - 🌱 I’m currently learning **React, Selenium**    
    
 - 📫 How to reach me **maxhalanen@cmail.carleton.ca**    
-
+  
 - 📄 Know about my experiences [https://www.linkedin.com/in/max-halanen/](https://www.linkedin.com/in/max-halanen/)
   
 - ⚡ Fun fact **The average cloud weighs over one million pounds!**
