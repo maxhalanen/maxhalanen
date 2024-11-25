@@ -9,7 +9,7 @@
   
 - 📄 Know about my experiences [https://www.linkedin.com/in/max-halanen/](https://www.linkedin.com/in/max-halanen/)
   
-- ⚡ Fun fact **The average cloud weighs over one million pounds!**
+- ⚡ Fun fact **The internet weighs around 50 grams 🤯**
 
 <h3 align="left">Connect with me:</h3>   
 <p align="left"> 
