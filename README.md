@@ -3,7 +3,7 @@
    
 - 🔭 I’m currently working on an **E-Commerce Website**
      
-- 🌱 I’m currently learning **Math and Cryptography**    
+- 🌱 I’m currently learning **Cryptography**    
    
 - 📫 How to reach me **maxhalanen@cmail.carleton.ca**    
   
