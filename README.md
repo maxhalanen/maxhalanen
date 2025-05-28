@@ -3,7 +3,7 @@
    
 - 🔭 I’m currently working on an **GPS Device!**
      
-- 🌱 I’m currently learning about the **xv6 Operating System**    
+- 🌱 I’m currently learning about the **xv6 operating system**    
    
 - 📫 How to reach me **maxhalanen@cmail.carleton.ca**    
   
