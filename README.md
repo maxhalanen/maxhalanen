@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max Halanen</h1>
 <h3 align="center">A passionate Systems Engineer and Software Developer from Canada</h3>. 
    
-- 🔭 I’m currently working on an **E-Commerce Website**
+- 🔭 I’m currently working on an **GPS Device!**
      
-- 🌱 I’m currently learning **Cryptography**    
+- 🌱 I’m currently learning about the **xv6 Operating System**    
    
 - 📫 How to reach me **maxhalanen@cmail.carleton.ca**    
   
